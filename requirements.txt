@@ -1,0 +1,13 @@
+clean_fid==0.1.23
+fast_pytorch_kmeans==0.1.6
+matplotlib==3.5.1
+numpy==1.21.5
+Pillow==9.1.0
+pytorch_lightning==1.6.1
+rtpt==0.0.4
+scikit_learn==1.0.2
+scipy==1.8.0
+torch==1.11.0
+torchvision==0.12.0
+tqdm==4.62.3
+tensorboard
