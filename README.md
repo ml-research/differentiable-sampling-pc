@@ -18,9 +18,10 @@ Code for our paper "Elevating Perceptual Sample Quality in Probabilistic Circuit
 
 We base our experiments for the adversarial, maximum mean discrepancy, and probabilistic auto-encoding experiment on the following implementations:
 
-- GAN: [https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py](Vanilla GAN, PyTorch-GAN Collection)
-- MMD: [https://github.com/OctoberChang/MMD-GAN](Original MMD-GAN implementation)
-- VAE: [https://github.com/pytorch/examples/blob/main/vae/main.py](PyTorch Vanilla VAE Tutorial)
+- GAN: [Vanilla GAN, PyTorch-GAN Collection](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py)
+- MMD: [Original MMD-GAN implementation](https://github.com/OctoberChang/MMD-GAN)
+- VAE: [PyTorch Vanilla VAE Tutorial](https://github.com/pytorch/examples/blob/main/vae/main.py)
+
 
 ## Citing This Work
 
