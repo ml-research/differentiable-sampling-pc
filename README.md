@@ -1,6 +1,6 @@
 # Elevating Perceptual Sample Quality in Probabilistic Circuits through Differentiable Sampling
 
-Code for our paper "Elevating Perceptual Sample Quality in Probabilistic Circuits through Differentiable Sampling" (TODO: insert PDF link when available). 
+Code for our paper [Elevating Perceptual Sample Quality in Probabilistic Circuits through Differentiable Sampling](https://proceedings.mlr.press/v181/lang22a/lang22a.pdf). 
 
 ## Code Structure
 
@@ -25,5 +25,19 @@ We base our experiments for the adversarial, maximum mean discrepancy, and proba
 
 ## Citing This Work
 
-TODO, add bibtex reference when available.
+
+```bib
+@inproceedings{lang2022diff-sampling-spns,
+  title = {Elevating Perceptual Sample Quality in Probabilistic Circuits through Differentiable Sampling},
+  author = {Lang, Steven and Mundt, Martin and Ventola, Fabrizio and Peharz, Robert and Kersting, Kristian},
+  booktitle = {NeurIPS 2021 Workshop on Pre-registration in Machine Learning},
+  keywords = {Probabilistic Circuits, Sum-Product Networks, Differentiable Sampling, Deep Learning},
+  year = {2022},
+  volume = {181},
+  series = {Proceedings of Machine Learning Research},
+  pages = {1--25},
+  publisher = {PMLR},
+}
+```
+
 
